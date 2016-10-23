@@ -1,5 +1,4 @@
-# Variables Basic Input/Output, 
-# Arithmetic, Bitwise, Logical and Condition Operators
+# Variables, basic input/output, arithmetic, bitwise, logical and condition operators
 
 1. Напишете програма, която въвежда двуцифрено число от клавиатурата и пресмята и отпечатва произведението на десетиците и на единиците му. 
 
