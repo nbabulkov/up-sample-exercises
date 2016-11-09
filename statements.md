@@ -53,3 +53,17 @@
 &nbsp;1 2 3 4 5  
 &nbsp;&nbsp;&nbsp;&nbsp;2 3 4  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  
+
+
+13. Напишете програма, която чете от конзолата две цели числа, като ги третирате като IP адреси, изведете на екрана всички октети (без да ползвате деление с остатък), след което намерете най-големия общ prefix, изведете големината му и го изведете на екрана както в бинарен, така и в еквивалентния запис в октети.
+
+Пример:  
+&nbsp;&nbsp;Вход:  
+&nbsp;&nbsp;&nbsp;1537212452  
+&nbsp;&nbsp;&nbsp;1477444609  
+  
+&nbsp;&nbsp;Изход:  
+&nbsp;&nbsp;&nbsp;&nbsp;Octets: 91.160.0.36; 88.16.4.1;  
+&nbsp;&nbsp;&nbsp;&nbsp;Prefix length: 6;  
+&nbsp;&nbsp;&nbsp;&nbsp;Prefix octets(Mask): 252.0.0.0;  
+&nbsp;&nbsp;&nbsp;&nbsp;Prefix binary(Mask-binary): 11111100000000000000000000000000;    
